@@ -1,0 +1,36 @@
+* {
+  border: 1px dotted black;
+}
+
+body {
+
+  background-image: url(../images/grey_wash_wall.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+
+}
+
+.container {
+
+  color: black;
+
+}
+
+nav {
+
+  font-family: 'Federant', cursive;
+
+}
+
+#heal-number {
+  font-family: 'Federant', cursive;
+  color: whitesmoke;
+
+}
+
+.crystal-image {
+  width: 250px;
+  height: 250px;
+};
