@@ -1,6 +1,4 @@
-* {
-  border: 1px dotted black;
-}
+
 
 body {
 
@@ -9,28 +7,29 @@ body {
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
+  font-family: 'Koho', sans-serif;
 
 }
 
 .container {
 
-  color: black;
+  color: floralwhite;
+  text-shadow: 1px 1px black;
 
 }
 
-nav {
+.mainHead {
 
+  color: coral;
   font-family: 'Federant', cursive;
-
-}
-
-#heal-number {
-  font-family: 'Federant', cursive;
-  color: whitesmoke;
 
 }
 
 .crystal-image {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
 };
+
+.blocked {
+  color: firebrick;
+}
